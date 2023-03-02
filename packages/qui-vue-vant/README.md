@@ -5,7 +5,7 @@
  * @Description: 页面/组件/功能的描述
  * @FilePath: /fe-infra/packages/qui-vue-vant/README.md
 -->
-# @infra/qui-vue-vant
+# qui-vue-vant
 
 ### 介绍
 

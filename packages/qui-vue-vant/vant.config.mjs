@@ -1,5 +1,5 @@
 export default {
-  name: '@infra/qui-vue-vant',
+  name: 'qui-vue-vant',
   build: {
     packageManager: 'pnpm',
     css: {
@@ -10,7 +10,7 @@ export default {
     },
   },
   site: {
-    title: '@infra/qui-vue-vant',
+    title: 'qui-vue-vant',
     logo: 'https://fastly.jsdelivr.net/npm/@vant/assets/logo.png',
     nav: [
       {
